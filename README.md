@@ -1,2 +1,1 @@
-# rbtree-algo
-red-black-tree 
+# Red-Black tree implementation
